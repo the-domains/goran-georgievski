@@ -4,8 +4,15 @@
         <description><![CDATA[Ovo je proba]]></description>
         <link>https://thegrid.ai/goran-georgievski/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 21:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 21:51:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goran-georgievski/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nuke]]></title>
+            <description><![CDATA[<article><h1>Nuke</h1><p>1. Dr Strangelove lost in the Giant Mountain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e4ae1e8388a976e925a367dab8eeaa139e5542a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/goran-georgievski/nuke/index.html</link>
+            <guid isPermaLink="false">4d93a7ba-f632-4e07-a6cb-cc3d090230f8</guid>
+            <pubDate>Thu, 07 Jan 2016 21:50:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grunwald]]></title>
             <description><![CDATA[<article><h1>Grunwald</h1><p>2 . Battle of Grunwald </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc7e4aa2efeadbcd7898cdf3870e6a2b650820cf.jpg"></article>]]></description>
