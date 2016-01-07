@@ -2,14 +2,24 @@
     <channel>
         <title><![CDATA[Goran Georgievski]]></title>
         <description><![CDATA[Goran Georgievski]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/goran-georgievski/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 20:58:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 21:11:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/goran-georgievski/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Goran Georgievski]]></title>
+            <description><![CDATA[<article><h1>Goran Georgievski</h1><p>My renaissance life includes travelogues, reports on adventure 
+racing, random thoughts on science and technology, imaginary worlds torn
+ bits of reality and other multimedia conceptual, more or less 
+successful attempts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b234e111bc0b0c44b7c544a8c85f4749365f022.jpg"></article>]]></description>
+            <link>https://thegrid.ai/goran-georgievski/goran-georgievski/index.html</link>
+            <guid isPermaLink="false">0e727e2e-1df3-4f9c-9a0d-ece9af60a936</guid>
+            <pubDate>Thu, 07 Jan 2016 21:11:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/385a72b9-a16a-40b7-bbc4-2b91b15b273b.jpg">]]></description>
-            <link>undefined17e92fc9-8012-4158-a30b-c2acfccc1f6c/index.html</link>
+            <link>https://thegrid.ai/goran-georgievski/17e92fc9-8012-4158-a30b-c2acfccc1f6c/index.html</link>
             <guid isPermaLink="false">17e92fc9-8012-4158-a30b-c2acfccc1f6c</guid>
             <pubDate>Thu, 07 Jan 2016 20:58:04 GMT</pubDate>
         </item>
