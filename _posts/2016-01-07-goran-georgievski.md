@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: About
-datePublished: '2016-01-07T21:11:55.754Z'
-dateModified: '2016-01-07T21:11:38.111Z'
+datePublished: '2016-01-21T22:25:04.733Z'
+dateModified: '2016-01-21T22:25:03.845Z'
 title: Goran Georgievski
 author: []
+sourcePath: _posts/2016-01-07-goran-georgievski.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-07-goran-georgievski.md
-published: true
-url: goran-georgievski/index.html
-_type: Article
+_type: Blurb
 
 ---
 > Goran Georgievski
