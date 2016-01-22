@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: About
-datePublished: '2016-01-21T22:25:04.765Z'
-dateModified: '2016-01-21T22:25:03.845Z'
+description: artisan and content creator
+datePublished: '2016-01-22T02:26:06.961Z'
+dateModified: '2016-01-22T02:26:05.742Z'
 title: Goran Georgievski
 author: []
 sourcePath: _posts/2016-01-07-goran-georgievski.md
